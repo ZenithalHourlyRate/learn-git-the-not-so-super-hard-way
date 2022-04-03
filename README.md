@@ -9,3 +9,7 @@ This talk is given in a TA session for the *Introduction to Computer Systems* co
 Presentation version at [git.pdf](git.pdf)
 
 Handout version at [git-handout.pdf](git-handout.pdf)
+
+## LICENSE
+
+CC BY-NC-SA 4.0
